@@ -1,3 +1,3 @@
 # Bash
 
-Operating System Lab Excersices of CSE 
+Operating System Lab Excersices 
